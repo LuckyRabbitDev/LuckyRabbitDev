@@ -10,7 +10,7 @@ I'm always looking to push the boundaries of mobile technology and build solutio
 
    <p align="left">
       <a href="https://www.linkedin.com/in/oswaldo-crispim/">
-         <img alt="followers" title="LinkedIn" src="https://custom-icon-badges.demolab.com/github/?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="LinkedIn" src="https://custom-icon-badges.demolab.com/linkedin/followers/oswaldo-crispim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
 ---
