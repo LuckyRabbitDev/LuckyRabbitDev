@@ -6,8 +6,6 @@ I'm a Mobile Developer with a strong focus on building high-quality applications
 
 I follow best practices in version control, testing, and software development methodologies to create efficient and reliable applications. From ideation and planning to development, deployment, and publishing on the App Store, I take a comprehensive approach to delivering seamless user experiences.
 
-I'm always looking to push the boundaries of mobile technology and build solutions that make a real impact.
-
    <p align="left">
       <a href="https://www.linkedin.com/in/oswaldo-crispim/">
          <img alt="linkedin" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -24,14 +22,6 @@ I'm always looking to push the boundaries of mobile technology and build solutio
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <br />
-
-#
-
-### 📊 Stats
-
-![Oswaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckyrabbitdev&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 <!--
